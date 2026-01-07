@@ -1,0 +1,13 @@
+
+{
+  "name": "أحمد جهلان | Ahmed Gahlan - Creative Portfolio",
+  "description": "The official professional portfolio for Ahmed Gahlan - Creative Director, Video Editor, and Ads Specialist.",
+  "short_name": "Gahlan Portfolio",
+  "theme_color": "#6366f1",
+  "background_color": "#020617",
+  "display": "standalone",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
